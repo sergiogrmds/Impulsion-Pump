@@ -1,6 +1,6 @@
 # Impulsion-Pump
 
-DISCLAIMER: The information used in this code was altered by certain percentages, in addition to using only an extract of the total data. These two considerations were made because the data is confidential information from the Mining Company that provided it.
+DISCLAIMER: The information used in this code was altered by certain percentages, in addition to using only an extract of the total data. These two considerations were made because the data is confidential information from the Mining Company that provided it. Additionally, the prediction method is presented in a superficial manner and without the treatment for missing values and outliers that were present in the original dataset.
 
 This code is a brief sample (for intellectual property reasons) of the work I carried out at S&S Solutions and Engineering, a company dedicated to the maintenance of mineral processing plants.
 
